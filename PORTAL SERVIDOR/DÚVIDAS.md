@@ -1,12 +1,12 @@
 
-- Quanto à utilização de API para integração dos sistemas internos, o portal:
-	° Encaminha o navegador para outro sistema, ou;
-	° Permanece aberto e consulta outro sistema por meio de API?
+1. Quais são TODOS os sistemas internos que integram o Portal?
 
-- Quais funcionalidades dizem respeito à quais APIs?
+2. Quais são TODAS as opções dos menus? (Registro de Ponto)
 
-- Quais são TODAS as opções dos menus?
-	° Início
-	° Minhas Informações
+3. Posso utilizar alguma imagem da plataforma reestilizada quando me faltar o print de determinada funcionalidade do ambiente de produção?
 
-- Quais são TODOS os sistemas internos que integram o Portal?
+4. Quais funcionalidades dizem respeito à quais APIs?
+
+5. Informações de Cadastro
+	- Para qual sistema o usuário é redirecionado?
+	- O que é possível consultar ou fazer nesse ambiente?
