@@ -82,26 +82,18 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 
 		É a página inicial do Portal, responsável por apresentar campanhas institucionais e informativos. Seu principal elemento é um carrossel com os conteúdos em destaque.
 
-![[home.png]]
-
 4.2. Minhas Informações
 
 		Reúne os módulos destinados à consulta de informações pessoais, cadastrais, funcionais e financeiras do servidor.
 		Entre as opções disponíveis estão Informações Cadastrais, Atualizar Cadastro, Ficha Funcional, Assentamentos, Pagamentos, Cautelas, Mapa de Férias, Frequências, Banco de Horas e Consignados.
 
-![[menu_Minhas_Informações.png]]
-
 4.3. Serviços
 
 		Reúne as funcionalidades destinadas à consulta do catálogo de serviços, ao registro de solicitações e ao acompanhamento dos pedidos realizados pelo servidor.
 
-![[menu_Servicos.png]]
-
 4.4. Meus Sistemas
 
 		Permite acessar outros sistemas disponibilizados pelo Governo. Diferentemente dos módulos apresentados dentro do Portal, essa opção encaminha o servidor para outros ambientes por meio de redirecionamentos.
-
-![[redirec_Meus_Sistemas.png]]
 
 
 4.5. Ajuda
@@ -115,21 +107,15 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 	    
 	    Essas opções encaminham o usuário para os respectivos ambientes ou conteúdos.
 
-![[menu_Ajuda.png]]
-
 4.6. Notificações
 	**Sistema relacionado: SID**
 
 		O menu de Notificações apresenta avisos relacionados às solicitações de férias. Por meio dele, o servidor pode visualizar informações referentes aos acontecimentos desses pedidos.
 
-![[menu_Notificacao.png]]
-
 4.7. Registro de Ponto
 
 		O Registro de Ponto permite que determinados servidores realizem a marcação de frequência diretamente pelo Portal.
 		Essa funcionalidade é destinada aos servidores que possuem o cadastro de frequência digital habilitado no e-Estado (RH), em vez de utilizarem o registro por meio de ponto biométrico.
-
-![[menu_Registro_Ponto.jpeg]]
 
 
 5. MÓDULOS MINHAS INFORMAÇÕES
@@ -149,8 +135,6 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 		Nesse ambiente, o servidor pode visualizar e atualizar seus dados pessoais, encaminhar documentos e acompanhar o andamento do processo por meio de um painel de status.
 		O sistema recupera informações previamente cadastradas no e-Estado (RH), facilitando o preenchimento dos dados. A atualização cadastral é disponibilizada no mês de aniversário do servidor.
 
-![[modulo_Redirec_Att_Cadastral.png]]
-
 5.3. Ficha Funcional
 	**Sistema relacionado: e-Estado (RH)**
 
@@ -158,21 +142,11 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 		Os dados são organizados em quatro categorias: Pessoal, Documentos, Complementar e Concurso Público. Entre as informações disponibilizadas estão dados de identificação, documentação e informações pessoais adicionais.
 		O módulo também orienta o servidor a procurar o setor de Recursos Humanos de sua unidade caso identifique alguma informação incorreta ou incompleta.
 
-![[modulo_Ficha_Funcional_Pessoal.png]]
-
-![[modulo_Ficha_Funcional_Docs.png]]
-
-![[modulo_Ficha_Funcional_Compl.png]]
-
-![[modulo_Ficha_Funcional_Concurso.png]]
-
 5.4. Assentamentos
 	**Sistema relacionado: e-Estado (RH)**
 
 		O módulo Assentamentos permite consultar registros relacionados à vida funcional do servidor.
 		A tela apresenta a matrícula funcional e uma área destinada à visualização dos assentamentos existentes. Quando não há registros disponíveis, o sistema informa que não existem dados para serem visualizados.
-
-![[modulo_Assentamentos.png]]
 
 5.5. Pagamentos
 	**Sistema relacionado: Contracheque Sistemas**
@@ -181,16 +155,12 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 		As opções Contracheque e Cédula C encaminham o servidor para o sistema de Contracheque, onde os respectivos documentos podem ser consultados.
 		Já a Ficha Anual permite selecionar o ano de referência e gerar um relatório financeiro para consulta e impressão, contendo informações sobre proventos, descontos e valores anuais.
 
-![[modulo_Pagamento.png]]
-
 5.6. Cautelas
 	**Sistema relacionado: Estado Patrimônio**
 
 		O módulo Cautelas permite consultar os bens patrimoniais disponibilizados ao servidor e vinculados à sua responsabilidade.
 		A tela apresenta informações sobre a situação da cautela, o tipo de registro e os detalhes dos bens, incluindo número de tombamento, descrição, departamento responsável e valor.
 		Além da consulta, o servidor pode aceitar ou recusar uma cautela diretamente pelo Portal.
-
-![[modulo_Cautelas.png]]
 
 5.7. Mapa de Férias
 	**Sistema relacionado: SID**
@@ -199,16 +169,12 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 		A funcionalidade possibilita selecionar o ano de exercício e visualizar, em uma tabela organizada por meses, os períodos de férias dos colaboradores.
 		A tela também apresenta uma legenda para identificar a situação das solicitações, diferenciando aquelas deferidas, aguardando homologação e relacionadas ao abono pecuniário.
 
-![[modulo_Mapa_Ferias.png]]
-
 5.8. Frequências
 	**Sistema relacionado: SIF**
 
 		O módulo Frequências permite consultar os registros de jornada de trabalho e acompanhar o cumprimento da carga horária prevista.
 		A consulta pode ser realizada por período e apresenta informações do servidor, departamento e carga horária semanal, além de um resumo mensal das horas previstas, trabalhadas e acumuladas.
 		Também disponibiliza uma tabela detalhada com os registros diários de entrada e saída, horas trabalhadas, horas previstas, compensações e saldo acumulado.
-
-![[modulo_Frequencia.png]]
 
 5.9. Banco de Horas
 	**Sistema relacionado: SIF**
@@ -217,16 +183,12 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 		Após a pesquisa pela matrícula funcional, o Portal apresenta o total de horas acumuladas e os registros organizados por mês de serviço.
 		Cada registro apresenta a referência mensal, a descrição da movimentação, o tempo correspondente e o saldo resultante.
 
-![[modulo_Banco_Horas.png]]
-
 5.10. Consignados
 	**Sistema relacionado: Sistema de Consignação**
 
 		O módulo Consignados permite consultar informações referentes às consignações do servidor.
 		Após selecionar a matrícula funcional, são apresentadas informações de identificação e indicadores financeiros referentes à margem disponível, margem para cartão e margem para cartão benefício.
 		A tela também possui uma área denominada Minhas Consignações, destinada à apresentação dos registros encontrados para o servidor.
-
-![[modulo_Consignados.png]]
 
 
 6. SERVIÇOS
@@ -241,16 +203,12 @@ ROTEIRO DE APRESENTAÇÃO DO PORTAL DO SERVIDOR
 		Entre os exemplos disponíveis estão a marcação anual de férias, a solicitação de folga por meio do banco de horas e o pedido de acesso ao Sistema Eletrônico de Informações (SEI).
 		Para acessar os serviços, é necessário possuir matrícula ativa, lotação, cargo e campo de frequência devidamente preenchidos no e-Estado (RH).
 
-![[modulo_Solicitar_Servico.png]]
-
 6.2. Acompanhar
 	**Sistema relacionado: Alpha Solicitação**
 
 		O módulo Acompanhar permite consultar as solicitações realizadas por meio do Portal, organizando os registros em categorias específicas.
 		A tela disponibiliza sete categorias: Servidor, Férias, Frequência, Plantão, Acesso - Sistemas, Acesso - SEI e Agendamentos.
 		Cada categoria apresenta um contador com a quantidade de solicitações registradas, facilitando a localização e o acompanhamento dos pedidos em um único ambiente.
-
-![[modulo_Acompanhar_Servico.png]]
 
 
 7. CONSIDERAÇÕES FINAIS
