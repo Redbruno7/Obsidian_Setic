@@ -39,7 +39,7 @@ CONTA ESTABELECIMENTO – 51329886000152
 
 - Relatórios – Registro próprio
 - Pedidos Retroativos – Demonstração de pedidos e criação de pedidos retroativos diários – Após autorização sucedida o pedido some
-- Pedidos (116.91837.06-1) – Criação de pedidos dos beneficiários através de biometria, senha ou ata
+- Pedidos (11691837061) – Criação de pedidos dos beneficiários através de biometria, senha ou ata
 
 
 CONTA FISCAL – O QUE FAZ E COMO FUNCIONA?

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68092cc177f177f4",
+        "id": "4d0c3e6141b74f44",
         "type": "tabs",
         "children": [
           {
-            "id": "71f6c904884cb533",
+            "id": "a5977a082dadf44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,27 +188,26 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "71f6c904884cb533",
+  "active": "a5977a082dadf44e",
   "lastOpenFiles": [
-    "Pasted image 20261113132445.png",
-    "IMAGENS/PRATO FÁCIL/relatorio_Municipio_Simples.png",
+    "PRATO FÁCIL/TÓPICOS.md",
     "PRATO FÁCIL/ROTEIRO.md",
-    "IMAGENS/PRATO FÁCIL/lista_Pedidos_Retroativos.png",
-    "IMAGENS/PRATO FÁCIL/relatorio_Estabelecimento.png",
-    "IMAGENS/PRATO FÁCIL/relatorio_Estabelecimento_Completo.png",
-    "IMAGENS/PRATO FÁCIL/relatorio_Estabelecimento_Simples.png",
-    "IMAGENS/PRATO FÁCIL/relatorio_Municipio.png",
-    "IMAGENS/PRATO FÁCIL/solicitacao_Pedido_Retroativo.png",
-    "IMAGENS/PRATO FÁCIL/relatorio_Municipio_Completo.png",
-    "IMAGENS/PRATO FÁCIL/processar_Dados.png",
+    "IMAGENS/PRATO FÁCIL/Pasted image 20261116110346.png",
+    "IMAGENS/PRATO FÁCIL/Pasted image 20261116110616.png",
+    "IMAGENS/PRATO FÁCIL/cadastro_Biometrico.png",
+    "Pasted image 20261116110000.png",
+    "IMAGENS/PRATO FÁCIL/modificacao_Pedido_Retroativo.png",
+    "IMAGENS/PRATO FÁCIL/modificacao_Pedido_Retroativo_2.png",
+    "IMAGENS/PRATO FÁCIL/conta_Fiscal.png",
+    "IMAGENS/PRATO FÁCIL/solicitacao_Senha.png",
+    "IMAGENS/PRATO FÁCIL/criacao_Pedido.png",
+    "Pasted image 20261116095151.png",
     "IMAGENS/PRATO FÁCIL",
     "IMAGENS/PORTAL",
-    "PRATO FÁCIL/TÓPICOS.md",
     "PRATO FÁCIL.md",
     "PRATO FÁCIL",
     "PORTAL SERVIDOR/ROTEIRO.md",
     "PORTAL SERVIDOR/ANOTAÇÕES.md",
-    "IMAGENS/PORTAL/menu_Registro_Ponto.jpeg",
     "PORTAL SERVIDOR/DÚVIDAS.md",
     "PORTAL SERVIDOR/PRINTS.md",
     "PORTAL SERVIDOR/POSSÍVEIS PERGUNTAS.md",
