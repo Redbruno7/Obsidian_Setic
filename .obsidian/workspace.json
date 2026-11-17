@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRATO FÁCIL/ROTEIRO.md",
+                "file": "NOTES GIT/ANOTAÇÕES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROTEIRO"
+              "title": "ANOTAÇÕES"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "a5977a082dadf44e",
   "lastOpenFiles": [
-    "PRATO FÁCIL/TÓPICOS.md",
     "PRATO FÁCIL/ROTEIRO.md",
+    "NOTES GIT/ANOTAÇÕES.md",
+    "NOTES GIT",
+    "PRATO FÁCIL/TÓPICOS.md",
     "IMAGENS/PRATO FÁCIL/Pasted image 20261116110346.png",
     "IMAGENS/PRATO FÁCIL/Pasted image 20261116110616.png",
     "IMAGENS/PRATO FÁCIL/cadastro_Biometrico.png",
